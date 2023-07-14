@@ -1,0 +1,16 @@
+.carousel-container {
+  color: red;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90vw;
+  height: 90vh;
+  /* border: 2px solid black; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* opacity: 0.1; */
+}
+.carousel-container > h1 {
+  margin: 0.5rem;
+}
